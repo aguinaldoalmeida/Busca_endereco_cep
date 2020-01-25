@@ -1,7 +1,7 @@
-# Busca endereco pelo cep - WEB SERVICE - F O R M
+# Busca endereco pelo cep - WEB SERVICE - Escrito em Windows F O R M S
 - Web service do cep C#
  
-- Escrito em Forms C#
+- Escrito em Windows Forms C#
  
 - O Programa faz a busca do endereço pelo cep
 
