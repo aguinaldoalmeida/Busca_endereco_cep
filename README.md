@@ -7,4 +7,19 @@
 
 - Usa a URL dos correios - WEB SERVICE
 
-- Tem a referência da url inclusa no projeto
+--------------------------------------------------------------------------------------------------------------
+
+Search address by zip code - WEB SERVICE - Written in Windows F O R M S
+
+- Web service of zip code in C#
+
+- Written in Windows Forms C#
+
+- The Program searches the address by zip code
+
+- Use the URL of the post office - WEB SERVICE
+
+ 
+
+
+
